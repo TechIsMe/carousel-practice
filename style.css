@@ -1,8 +1,15 @@
-body {
+/* body {
     background-color: aqua;
 }
 @media (max-width : 500px){
     body {
         background-color: brown;
     }
+} */
+/* .carousel-item {
+    height: 32rem;
+    min-width: 100px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size: cover ;
+    background-size: cover;
 }
